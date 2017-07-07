@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mongoDb_main" target="1.8" />
+      <module name="mongoDb_test" target="1.8" />
+      <module name="mongoDbTest_main" target="1.8" />
+      <module name="mongoDbTest_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

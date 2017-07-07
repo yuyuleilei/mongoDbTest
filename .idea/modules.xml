@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mongoDb/mongoDb.iml" filepath="$PROJECT_DIR$/mongoDb/mongoDb.iml" group="mongoDb" />
+      <module fileurl="file://$PROJECT_DIR$/mongoDbTest.iml" filepath="$PROJECT_DIR$/mongoDbTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mongoDbTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mongoDbTest_main.iml" group="mongoDbTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mongoDbTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mongoDbTest_test.iml" group="mongoDbTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mongoDb/mongoDb_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mongoDb/mongoDb_main.iml" group="mongoDb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mongoDb/mongoDb_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mongoDb/mongoDb_test.iml" group="mongoDb" />
+    </modules>
+  </component>
+</project>
